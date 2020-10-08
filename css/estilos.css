@@ -1,0 +1,57 @@
+* {
+	margin: 1;
+	
+}
+h2 {
+	font-size: 40px;
+	
+}
+
+header {
+	margin-top:0;
+	margin-left:0;
+	display:flex;
+	background:#000000;
+	color:#fff;
+	width: 1310px;
+	height:210px;
+	padding-top:0;
+
+}
+#datos {
+	display:flex;
+	justify-content:flex-end;
+	
+}
+body {
+	border:20px solid #000 ;
+	background: white;
+}
+.two, .three {
+	font-size: 20px;
+}
+
+.one {
+	background: #000000;
+	color: #fff;
+	
+}
+.four {
+	font-size: 20px;
+}
+#frmlr {
+	display:flex;
+	justify-content:flex-end;
+}
+#asd {
+	font-size: 18px;
+}
+#sendmathux {
+	font-size: 22px;
+}
+.three, .two {
+	color:rgba(0,0,0,.6);
+}
+#qrcode {
+	justify-content:flex-start;
+}
